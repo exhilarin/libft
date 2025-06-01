@@ -1,0 +1,2 @@
+Libft is the very first project in the 42 curriculum. Its goal is to create a custom C library by re-implementing standard C functions from scratch, without relying on the standard library itself. Through this process, students gain a deep understanding of low-level programming concepts such as memory management, string manipulation, and pointer arithmetic.
+Libft lays a strong foundation for future projects by encouraging clean, efficient, and reusable code — forming a personal standard library to build upon throughout the rest of the program.
